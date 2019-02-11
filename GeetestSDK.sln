@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeetestSDK", "GeetestSDK\GeetestSDK.csproj", "{861AD9D5-4223-47EB-BFF3-882466216866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861AD9D5-4223-47EB-BFF3-882466216866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861AD9D5-4223-47EB-BFF3-882466216866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861AD9D5-4223-47EB-BFF3-882466216866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861AD9D5-4223-47EB-BFF3-882466216866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53624ED7-F723-4346-9D76-E5B54DECFDCF}
+	EndGlobalSection
+EndGlobal
